@@ -1,8 +1,9 @@
-## [Visit Here](https://rishitsrivastava.vercel.app)
+## [Visit My Portfolio](https://rishitsrivastava.vercel.app)
 
 ![GitHub followers](https://img.shields.io/github/followers/rishitsrivastava)
 
-![Twitter Follow](https://img.shields.io/twitter/follow/rishit1618?style=social)
+![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/:rishit1816)
+
 
 ## Table of Contents
 
