@@ -20,7 +20,7 @@ I'm a 22-year-old Full Stack developer based in India, and I'm passionate about 
  
 ## 🐱‍🚀 Fun Facts 
 
-- One Piece is my favorite anime.
+- One Piece and Hajime no Ippo is my favorite anime.
 - When not coding you will find me playing Badminton.
 - Reading books or novels is not my thing.
 
