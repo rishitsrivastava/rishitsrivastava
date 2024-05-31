@@ -10,13 +10,13 @@ I'm a 22-year-old Full Stack developer based in India, and I'm passionate about 
 
 **Frontend Development:** `React`  `TypeScript` `Tailwind` `JavaScript` `Framer-Motion`
  
-**Version Control:** `Git`
+**Version Control:** `GitHub`
 
 **Backend Development:** `Node.js` `Express.js` `MongoDB` 
 
 **Testing:**  `Postman` 
 
-**Language:**  `C++`
+**Language:**  `C++` `Java`
  
 ## 🐱‍🚀 Fun Facts 
 
