@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm a 24-year-old Full Stack developer based in India, and I'm passionate about crafting cool web apps.🤝 I’m looking for help with<br>🌱 I’m currently learning Java, Kafka, Redis, WebScockets and System Design and also practicing DSA.<br>💬 Ask me about JS and NodeJS.<br>⚡ Fun fact - I love watching anime and also a big fan of the anime One Piece.
+🔭 I'm a 24-year-old Full Stack developer based in India, and I'm passionate about crafting cool web apps.<br>🌱 I’m currently learning Java, Kafka, Redis, WebScockets and System Design and also practicing DSA.<br>💬 Ask me about JS and NodeJS.<br>⚡ Fun fact - I love watching anime and also a big fan of the anime One Piece.
 
 
 ## 🌐 Socials:
